@@ -2,7 +2,7 @@
   "name": "@blumqa/astronomy",
   "version": "1.0.1",
   "description": "It's' a package to use dynamic q&a (questions and answers) of astronomy",
-  "main": "dist/index.js",
+  "main": "dist/src/index.js",
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build"
